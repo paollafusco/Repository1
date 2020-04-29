@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 3084-56A6
+
+ Pasta de C:\Users\lola_\OneDrive\µrea de Trabalho\GIT\My GIT Project
+
+29/04/2020  17:47    <DIR>          .
+29/04/2020  17:47    <DIR>          ..
+29/04/2020  17:47                 0 test1.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   15.146.094.592 bytes dispon°veis
